@@ -1,0 +1,10 @@
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\bin\Debug\BankRegisterApp.exe.config
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\bin\Debug\BankRegisterApp.exe
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\bin\Debug\BankRegisterApp.pdb
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\obj\Debug\BankRegisterApp.csprojAssemblyReference.cache
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\obj\Debug\BankRegisterApp.Form1.resources
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\obj\Debug\BankRegisterApp.Properties.Resources.resources
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\obj\Debug\BankRegisterApp.csproj.GenerateResource.cache
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\obj\Debug\BankRegisterApp.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\obj\Debug\BankRegisterApp.exe
+C:\Users\Cameron\Documents\CIS150\BankRegisterApp\BankRegisterApp\obj\Debug\BankRegisterApp.pdb
